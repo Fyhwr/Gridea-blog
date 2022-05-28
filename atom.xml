@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.chicu.net</id>
+    <title>吃醋网💯</title>
+    <updated>2022-05-28T08:13:43.437Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.chicu.net"/>
+    <link rel="self" href="https://www.chicu.net/atom.xml"/>
+    <logo>https://www.chicu.net/images/avatar.png</logo>
+    <icon>https://www.chicu.net/favicon.ico</icon>
+    <rights>All rights reserved 2022, 吃醋网💯</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找心中的理想国]]></title>
+        <id>https://www.chicu.net/post/xun-zhao-xin-zhong-de-li-xiang-guo/</id>
+        <link href="https://www.chicu.net/post/xun-zhao-xin-zhong-de-li-xiang-guo/">
+        </link>
+        <updated>2022-05-25T08:36:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靠着努力和自律，我存下了人生中的第一笔“巨款”]]></title>
+        <id>https://www.chicu.net/post/kao-zhao-nu-li-he-zi-lu-wo-cun-xia-liao-ren-sheng-zhong-de-di-yi-bi-ju-kuan/</id>
+        <link href="https://www.chicu.net/post/kao-zhao-nu-li-he-zi-lu-wo-cun-xia-liao-ren-sheng-zhong-de-di-yi-bi-ju-kuan/">
+        </link>
+        <updated>2022-04-20T08:15:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回乡下住别墅]]></title>
+        <id>https://www.chicu.net/post/hui-xiang-xia-zhu-bie-shu/</id>
+        <link href="https://www.chicu.net/post/hui-xiang-xia-zhu-bie-shu/">
+        </link>
+        <updated>2022-04-13T03:56:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱的一种解释爱是什么？]]></title>
+        <id>https://www.chicu.net/post/ai-de-yi-chong-jie-shi-ai-shi-shi-me/</id>
+        <link href="https://www.chicu.net/post/ai-de-yi-chong-jie-shi-ai-shi-shi-me/">
+        </link>
+        <updated>2022-04-13T03:52:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://www.chicu.net/post/hello-gridea/</id>
+        <link href="https://www.chicu.net/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+    </entry>
+</feed>
